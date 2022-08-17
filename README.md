@@ -24,7 +24,7 @@ The following technologies and libraries were used to create the application:
 ## How to build and Run
 ## Requirements
 	JAVA- 11 Maven- 3.8.6
-1.	Jar file can be found at littlePay-Assignment\littlepay\target\ folder
+1.	Jar file can be found at littlepay\target\ folder
 2.  	cd in to the target folder
 2.	run command
 	
